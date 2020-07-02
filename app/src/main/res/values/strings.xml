@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fancy Car</string>
+
+    <string-array name="car_name_sort_options">
+        <item>Car sort</item>
+        <item>Sort ascending</item>
+        <item>Sort descending</item>
+    </string-array>
+
+    <string-array name="filter">
+        <item>Select filter</item>
+        <item>In dealer</item>
+    </string-array>
+</resources>
